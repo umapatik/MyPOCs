@@ -1,10 +1,1 @@
- Volume in drive E is New Volume
- Volume Serial Number is 726C-AD0D
-
- Directory of E:\My Projects
-
-16-01-2018  18:57    <DIR>          .
-16-01-2018  18:57    <DIR>          ..
-16-01-2018  18:57                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  247,787,405,312 bytes free
+This is my git test
